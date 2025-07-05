@@ -1,0 +1,45 @@
+* {
+        margin: 0px;
+        padding: 0px;
+      }
+      header{
+        background-color: rgb(50, 134, 27);
+        height: 40px;
+      }
+      nav{
+        padding: 5px;
+      }
+      #nav a {
+        text-decoration: none;
+        padding: 30px;
+      }
+
+      .box{
+        width: 100px;
+        height: 100px;
+        background-color: aqua;
+        margin: 20px;
+        display: inline-block;
+      }
+      #D1 {
+        position: fixed;
+      }
+       #d12 {
+        width: 200px;
+        height: 200px;
+        background-color: green;
+        border-radius: 50%;
+      }
+      .di {
+        background-color: bisque;
+        height: 89px;
+        width: 90px;
+        margin: 80px;
+      }
+      #container{
+        border: 10px solid rgb(36, 11, 11);
+      }
+      #D2{
+        z-index:2;
+        position: absolute;
+      }

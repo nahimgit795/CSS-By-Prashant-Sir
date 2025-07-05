@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#bar{
+    background-color: rgb(74, 74, 199);
+    color:rgba(212, 215, 24, 0.8);
+}
+/* .c1{
+    background-color: bisque;
+} */
+
+/* #f1{
+    background-color: blue;
+} */
+#product{
+   background: green url(jeans.jpg) no-repeat;
+   height: 400px;
+   width: 200px;
+
+    
+}

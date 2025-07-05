@@ -1,0 +1,33 @@
+#d1{
+background-color: bisque;
+height: 200px;
+width: 200px;
+margin-bottom: 50px;
+border-style: solid;
+border-width: 30px;
+
+}
+#content{
+    text-align: center;
+    padding-top: 10x;
+    text-align: center;
+    
+}
+#d2{
+    background-color: aqua;;
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+    
+}
+#content2{
+
+    padding:10px;
+    text-align: center;
+}
+#b1{
+    padding: 10px 15px 10px 15 px;
+    border:2px dotted red;
+    border-radius:100px;
+    margin:80px;
+}

@@ -1,0 +1,28 @@
+.progress_container{
+    width: 90%;
+    height: 25px;
+    background-color: rgb(86, 144, 29);
+    
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    left: 4%;
+}
+.progress-bar{
+    background-color: pink;
+    height: 100%;
+    border-radius:20px;
+    animation: animate_progress 3s 5;
+}
+   
+ @keyframes animate_progress {
+    0% {
+        width: 0%;
+    }
+    58% {
+        width: 40%;
+    }
+    70%{
+        width:100 ;;
+    }
+}
